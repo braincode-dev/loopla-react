@@ -1,0 +1,14 @@
+.currency-item {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid #55a5154a;
+    margin-bottom: 8px;
+}
+
+.currency-item > p {
+    margin: 5px 0;
+}
+
+.currency-name {
+    font-weight: 600;
+}

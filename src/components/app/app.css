@@ -1,0 +1,27 @@
+.header {
+    background-color: #282c34;
+    padding: 15px;
+    color: white;
+}
+
+.container {
+    width: 100%;
+    max-width: 1180px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+}
+
+.container > img {
+    width: 40px;
+    height: 40px;
+}
+
+.header p > span {
+    font-weight: 700;
+}
+
+.header p {
+    font-weight: 200;
+    margin: 10px 0;
+}
